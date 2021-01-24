@@ -176,13 +176,13 @@ return true; }
 
 ![output](./static/img/output2cwd.png)
 
-![output](./static/img/output3cwd.3png)
+![output](./static/img/output3cwd.png)
 
 ![output](./static/img/output4cwd.png)
 
-![output](./static/img/report1cwd.png)
+![output](./static/img/r1.png)
 
-![output](./static/img/report2cwd.png)
+![output](./static/img/r2.png)
 
 
 ## RESULT:
