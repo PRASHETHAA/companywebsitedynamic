@@ -185,4 +185,6 @@ return true; }
 ![output](./static/img/report2cwd.png)
 
 
-## RESULT:Thus a website is designed for the chip manufacturing company and is hosted in the URL http://prashethaa.student.saveetha.in:8000/.HTML code is validated.
+## RESULT:
+ Thus a website is designed for the chip manufacturing company and is hosted in the URL http://prashethaa.student.saveetha.in:8000/.HTML code is validated.
+
